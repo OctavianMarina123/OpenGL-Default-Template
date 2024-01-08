@@ -1,0 +1,30 @@
+"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" -S C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template -B C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio
+-- The C compiler identification is MSVC 19.36.32537.0
+-- The CXX compiler identification is MSVC 19.36.32537.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx86/x86/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-gwxzke/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-gwxzke/CMakeFiles/cmTC_95c16.dir/
+
+  has 225 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx86/x86/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio
