@@ -84,11 +84,9 @@ void Camera::update(GLFWwindow *window, float deltaTime, Shader &shaderProgram)
     // Resetare scroll offset după ajustare
     ScrollOffsetY = 0.0f;
 
-    glm::mat4 model = glm::mat4(1.0f);
     glm::mat4 view = GetViewMatrix();
     glm::mat4 projection = glm::perspective(glm::radians(Fov), (float) SCR_WIDTH / (float) SCR_HEIGHT, 0.1f, 100.0f);
 
-    shaderProgram.setMat4("model", model);
     shaderProgram.setMat4("view", view);
     shaderProgram.setMat4("projection", projection);
 

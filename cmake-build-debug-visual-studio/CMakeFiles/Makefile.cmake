@@ -105,7 +105,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2023.1.5/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/Windows.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1.5/bin/cmake/win/x64/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake"
   "C:/Program Files/JetBrains/CLion 2023.1.5/bin/cmake/win/x64/share/cmake-3.25/Modules/ProcessorCount.cmake"
-  "C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/CMakeLists.txt"
+  "C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/CMakeLists.txt"
   "CMakeFiles/3.25.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.2/CMakeRCCompiler.cmake"

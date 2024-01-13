@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template
+CMAKE_SOURCE_DIR = C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio
+CMAKE_BINARY_DIR = C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio
 
 # Include any dependencies generated for this target.
 include CMakeFiles\OpenGL_CLion_Template.dir\depend.make
@@ -59,183 +59,183 @@ include CMakeFiles\OpenGL_CLion_Template.dir\progress.make
 include CMakeFiles\OpenGL_CLion_Template.dir\flags.make
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\main.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\main.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/main.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/main.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\main.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/main.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\main.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/main.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\main.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\main.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\libraries\glad\src\glad.c
+CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\libraries\glad\src\glad.c
 CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/OpenGL_CLion_Template.dir/libraries/glad/src/glad.c.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\libraries\glad\src\glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/OpenGL_CLion_Template.dir/libraries/glad/src/glad.c.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\libraries\glad\src\glad.c
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/OpenGL_CLion_Template.dir/libraries/glad/src/glad.c.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.i @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\libraries\glad\src\glad.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\libraries\glad\src\glad.c
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/OpenGL_CLion_Template.dir/libraries/glad/src/glad.c.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\libraries\glad\src\glad.c
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\libraries\glad\src\glad.c.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\libraries\glad\src\glad.c
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Shader.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Shader.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/Shader.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Shader.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/Shader.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Shader.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/Shader.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Shader.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Shader.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/Shader.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Shader.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\Shader.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Shader.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Camera.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Camera.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/Camera.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Camera.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/Camera.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Camera.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/Camera.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Camera.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Camera.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/Camera.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Camera.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\Camera.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Camera.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\EBO.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\EBO.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/EBO.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\EBO.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/EBO.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\EBO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/EBO.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\EBO.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\EBO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/EBO.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\EBO.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\EBO.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\EBO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Texture.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Texture.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/Texture.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Texture.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/Texture.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Texture.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/Texture.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Texture.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Texture.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/Texture.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\Texture.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\Texture.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\Texture.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VAO.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VAO.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/VAO.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VAO.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/VAO.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VAO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/VAO.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VAO.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VAO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/VAO.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VAO.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\VAO.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VAO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VBO.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VBO.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/VBO.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VBO.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/VBO.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VBO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/VBO.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VBO.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VBO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/VBO.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\VBO.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\VBO.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\flags.make
-CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\stb.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj: C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\stb.cpp
 CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj: CMakeFiles\OpenGL_CLion_Template.dir\compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/stb.cpp.obj"
-	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\stb.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/OpenGL_CLion_Template.dir/src/stb.cpp.obj"
+	$(CMAKE_COMMAND) -E cmake_cl_compile_depends --dep-file=CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /showIncludes /FoCMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj /FdCMakeFiles\OpenGL_CLion_Template.dir\ /FS -c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\stb.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/OpenGL_CLion_Template.dir/src/stb.cpp.i"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe > CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\stb.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\stb.cpp
 <<
 
 CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/OpenGL_CLion_Template.dir/src/stb.cpp.s"
 	C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\src\stb.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.s /c C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\src\stb.cpp
 <<
 
 # Object files for target OpenGL_CLion_Template
@@ -264,9 +264,9 @@ OpenGL_CLion_Template.exe: CMakeFiles\OpenGL_CLion_Template.dir\src\VBO.cpp.obj
 OpenGL_CLion_Template.exe: CMakeFiles\OpenGL_CLion_Template.dir\src\stb.cpp.obj
 OpenGL_CLion_Template.exe: CMakeFiles\OpenGL_CLion_Template.dir\build.make
 OpenGL_CLion_Template.exe: CMakeFiles\OpenGL_CLion_Template.dir\objects1
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable OpenGL_CLion_Template.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable OpenGL_CLion_Template.exe"
 	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\OpenGL_CLion_Template.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\OpenGL_CLion_Template.dir\objects1 @<<
- /out:OpenGL_CLion_Template.exe /implib:OpenGL_CLion_Template.lib /pdb:C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\OpenGL_CLion_Template.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console   -LIBPATH:C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\libraries\glfw\lib  opengl32.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:OpenGL_CLion_Template.exe /implib:OpenGL_CLion_Template.lib /pdb:C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\OpenGL_CLion_Template.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console   -LIBPATH:C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\libraries\glfw\lib  opengl32.lib glfw3.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -278,6 +278,6 @@ CMakeFiles\OpenGL_CLion_Template.dir\clean:
 .PHONY : CMakeFiles\OpenGL_CLion_Template.dir\clean
 
 CMakeFiles\OpenGL_CLion_Template.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles\OpenGL_CLion_Template.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles\OpenGL_CLion_Template.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles\OpenGL_CLion_Template.dir\depend
 

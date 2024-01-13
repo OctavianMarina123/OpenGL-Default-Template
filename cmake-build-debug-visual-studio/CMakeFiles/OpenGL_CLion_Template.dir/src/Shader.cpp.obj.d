@@ -1,6 +1,6 @@
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/../include/Shader.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glad/include/glad/glad.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glad/include/KHR/khrplatform.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/../include/Shader.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glad/include/glad/glad.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glad/include/KHR/khrplatform.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/string
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/yvals_core.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/vcruntime.h
@@ -108,83 +108,83 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.3253
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/locale.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/sstream
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/iostream
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/glm.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/_fixes.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/glm.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/_fixes.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/cassert
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/assert.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/fwd.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_int.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/setup.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/fwd.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_int.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/setup.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/cassert
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/assert.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../simd/platform.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../simd/platform.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/emmintrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/xmmintrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/mmintrin.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_float.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/precision.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/vec2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec2.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/vec3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec3.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/vec4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec4.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec4_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/mat2x2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat2x2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat2x2.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_matrix.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat2x3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat2x3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat2x3.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat2x4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat2x4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat2x4.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat3x2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat3x2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat3x2.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat3x3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat3x3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat3x3.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat3x4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat3x4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat3x4.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat4x2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat4x2.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat4x2.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat4x3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat4x3.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat4x3.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../mat4x4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat4x4.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat4x4.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_mat4x4_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_matrix.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../geometric.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_geometric.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_geometric.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_exponential.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec1.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_vec1.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_exponential.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_vector_relational.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_vector_relational.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_vector_relational_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/_vectorize.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_float.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/precision.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/vec2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec2.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/vec3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec3.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/vec4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec4.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec4_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/mat2x2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat2x2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat2x2.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_matrix.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat2x3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat2x3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat2x3.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat2x4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat2x4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat2x4.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat3x2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat3x2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat3x2.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat3x3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat3x3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat3x3.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat3x4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat3x4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat3x4.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat4x2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat4x2.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat4x2.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat4x3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat4x3.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat4x3.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../mat4x4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat4x4.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat4x4.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_mat4x4_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_matrix.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../geometric.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_geometric.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_geometric.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_exponential.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec1.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_vec1.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_exponential.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_vector_relational.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_vector_relational.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_vector_relational_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/_vectorize.hpp
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/cassert
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/assert.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_exponential_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../simd/exponential.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_common.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/_fixes.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_common.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_common_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../simd/common.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_exponential_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../simd/exponential.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_common.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/_fixes.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_common.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_common_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../simd/common.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/immintrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/wmmintrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/nmmintrin.h
@@ -192,30 +192,30 @@ C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.3253
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/tmmintrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/pmmintrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/zmmintrin.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_geometric_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../simd/geometric.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_matrix_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../simd/matrix.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/trigonometric.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_trigonometric.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_trigonometric.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_trigonometric_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/exponential.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/common.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/packing.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_packing.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_packing.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_half.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/type_half.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_packing_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/matrix.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/vector_relational.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/integer.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_integer.hpp
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_integer.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_geometric_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../simd/geometric.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_matrix_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../simd/matrix.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/trigonometric.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_trigonometric.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_trigonometric.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_trigonometric_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/exponential.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/common.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/packing.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_packing.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_packing.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_half.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/type_half.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_packing_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/matrix.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/vector_relational.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/integer.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_integer.hpp
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_integer.inl
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/intrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/setjmp.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/ammintrin.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/mm3dnow.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/func_integer_simd.inl
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm/glm/detail/../simd/integer.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/func_integer_simd.inl
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm/glm/detail/../simd/integer.h

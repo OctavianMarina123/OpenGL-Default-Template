@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/bin/Hostx86/x86/cl.exe 
@@ -45,29 +45,29 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-yjus3v
+Change Dir: C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-33hzh7
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_540bf\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_540bf.dir\build.make /nologo -L                  CMakeFiles\cmTC_540bf.dir\build
-Building C object CMakeFiles/cmTC_540bf.dir/CMakeCCompilerABI.c.obj
-	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_540bf.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles\CMakeScratch\TryCompile-yjus3v --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @C:\Users\Octa\AppData\Local\Temp\nm4A1E.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_fd30b\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_fd30b.dir\build.make /nologo -L                  CMakeFiles\cmTC_fd30b.dir\build
+Building C object CMakeFiles/cmTC_fd30b.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_fd30b.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles\CMakeScratch\TryCompile-33hzh7 --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @C:\Users\Octa\AppData\Local\Temp\nm9DAB.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_540bf.exe
-	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_540bf.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_540bf.dir\objects1 @C:\Users\Octa\AppData\Local\Temp\nm4A6E.tmp
+Linking C executable cmTC_fd30b.exe
+	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_fd30b.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_fd30b.dir\objects1 @C:\Users\Octa\AppData\Local\Temp\nm9E19.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-gwxzke
+Change Dir: C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio/CMakeFiles/CMakeScratch/TryCompile-49y41d
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_95c16\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_95c16.dir\build.make /nologo -L                  CMakeFiles\cmTC_95c16.dir\build
-Building CXX object CMakeFiles/cmTC_95c16.dir/CMakeCXXCompilerABI.cpp.obj
-	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_95c16.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles\CMakeScratch\TryCompile-gwxzke --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @C:\Users\Octa\AppData\Local\Temp\nm4C12.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_9b5ac\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_9b5ac.dir\build.make /nologo -L                  CMakeFiles\cmTC_9b5ac.dir\build
+Building CXX object CMakeFiles/cmTC_9b5ac.dir/CMakeCXXCompilerABI.cpp.obj
+	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_9b5ac.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\CMakeFiles\CMakeScratch\TryCompile-49y41d --filter-prefix="Note: including file: " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\cl.exe @C:\Users\Octa\AppData\Local\Temp\nm9FFD.tmp
 CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_95c16.exe
-	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_95c16.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_95c16.dir\objects1 @C:\Users\Octa\AppData\Local\Temp\nm4C62.tmp
+Linking CXX executable cmTC_9b5ac.exe
+	"C:\Program Files\JetBrains\CLion 2023.1.5\bin\cmake\win\x64\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9b5ac.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100220~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1436~1.325\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9b5ac.dir\objects1 @C:\Users\Octa\AppData\Local\Temp\nmA04C.tmp
 
 
 

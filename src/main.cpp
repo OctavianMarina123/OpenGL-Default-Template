@@ -70,25 +70,33 @@ int main()
 
     glfwSetScrollCallback(window, scroll_callback);
 
+    glEnable(GL_DEPTH_TEST);
 
     Shader shaderProgram("../shaders/default.vert", "../shaders/default.frag");
-    VAO vao;
+    Shader shaderProgram2("../shaders/vertex.vert", "../shaders/fragment.frag");
+    VAO vao,vao2;
     VBO vbo(vertices, sizeof(vertices));
 
     vao.Bind();
     vbo.Bind();
 
+    EBO ebo(indices, sizeof(indices));
+    ebo.Bind();
     vao.LinkAttrib(vbo, 0, 3, GL_FLOAT, 5 * sizeof(float), (void*)0);
     vao.LinkAttrib(vbo, 1, 2, GL_FLOAT, 5 * sizeof(float), (void*)(3 * sizeof(float)));
 
-    EBO ebo(indices, sizeof(indices));
+    vao2.Bind();
+    vbo.Bind();
     ebo.Bind();
-
-    shaderProgram.use();
+    vao2.LinkAttrib(vbo, 0, 3, GL_FLOAT, 5 * sizeof(float), (void*)0);
+    vao2.LinkAttrib(vbo, 1, 2, GL_FLOAT, 5 * sizeof(float), (void*)(3 * sizeof(float)));
 
     Texture texture("../assets/img.png", GL_TEXTURE_2D, GL_TEXTURE0, GL_RGB, GL_UNSIGNED_BYTE);
     texture.texUnit(shaderProgram, "tex0", 0);
-    texture.Bind();
+
+    Texture texture2("../assets/jupiter.jpg", GL_TEXTURE_2D, GL_TEXTURE0, GL_RGB, GL_UNSIGNED_BYTE);
+    texture2.texUnit(shaderProgram2, "tex1", 0);
+
 
     // Enables the Depth Buffer
     glEnable(GL_DEPTH_TEST);
@@ -104,24 +112,39 @@ int main()
         glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
+        camera.update(window, deltaTime,shaderProgram);
+
         // Calculează deltaTime
         float currentFrame = glfwGetTime();
         deltaTime = currentFrame - lastFrame;
         lastFrame = currentFrame;
 
+        // first object render using first shader
         vao.Bind();
-        shaderProgram.use();
+        texture.Bind();
+        glm::mat4 model = glm::mat4(1.0f);
+        glm::mat4 view = camera.GetViewMatrix();
+        shaderProgram.setMat4("model", model);
+        glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
 
-        camera.update(window, deltaTime,shaderProgram);
-
+        // second object render using second shader
+        vao2.Bind();
+        shaderProgram2.use();
+        texture2.Bind();
+        glm::mat4 model2 = glm::mat4(1.0f);
+        glm::mat4 view2 = camera.GetViewMatrix();
+        model2 = glm::translate(model2, glm::vec3(0.0f, -0.5f, -1.0f));
+        shaderProgram2.setMat4("model", model2);
         glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
 
         // glfw: swap buffers and poll IO events
         glfwSwapBuffers(window);
         glfwPollEvents();
     }
+    GLint maxTextureUnits;
+    glGetIntegerv(GL_MAX_TEXTURE_IMAGE_UNITS, &maxTextureUnits);
 
-
+    std::cout<<maxTextureUnits;
     // glfw: terminate, clearing all previously allocated GLFW resources.
     // ------------------------------------------------------------------
     glfwTerminate();

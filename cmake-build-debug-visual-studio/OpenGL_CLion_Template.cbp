@@ -8,26 +8,26 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio"/>
+				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OpenGL_CLion_Template">
-				<Option output="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/OpenGL_CLion_Template.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio"/>
+				<Option output="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio/OpenGL_CLion_Template.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glfw/include"/>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glad/include"/>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/stb_images/include"/>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glfw/include"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glad/include"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/stb_images/include"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm"/>
 					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include"/>
 					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\ATLMFC\include"/>
 					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
@@ -38,23 +38,23 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 OpenGL_CLion_Template"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 OpenGL_CLion_Template"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="OpenGL_CLion_Template/fast">
-				<Option output="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio/OpenGL_CLion_Template.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio"/>
+				<Option output="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio/OpenGL_CLion_Template.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
 				<Compiler>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glfw/include"/>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glad/include"/>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/stb_images/include"/>
-					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glm"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glfw/include"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glad/include"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/stb_images/include"/>
+					<Add directory="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glm"/>
 					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include"/>
 					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\ATLMFC\include"/>
 					<Add directory="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include"/>
@@ -65,79 +65,79 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 OpenGL_CLion_Template/fast"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 OpenGL_CLion_Template/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio"/>
+				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/cmake-build-debug-visual-studio"/>
+				<Option working_dir="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/cmake-build-debug-visual-studio"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Clion-Complete-Configuration\OpengGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Octa\Desktop\Projects\opengl\templates\DefaultTemplate\OpenGL-Default-Template\cmake-build-debug-visual-studio\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/include/Camera.h">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/include/Camera.h">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/include/EBO.h">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/include/EBO.h">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/include/Shader.h">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/include/Shader.h">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/include/Texture.h">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/include/Texture.h">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/include/VAO.h">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/include/VAO.h">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/include/VBO.h">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/include/VBO.h">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glad/src/glad.c">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glad/src/glad.c">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/Camera.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/Camera.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/EBO.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/EBO.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/Shader.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/Shader.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/Texture.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/Texture.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/VAO.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/VAO.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/VBO.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/VBO.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/main.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/main.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/src/stb.cpp">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/src/stb.cpp">
 			<Option target="OpenGL_CLion_Template"/>
 		</Unit>
-		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/CMakeLists.txt">
+		<Unit filename="C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

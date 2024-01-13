@@ -18,8 +18,8 @@ C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_memcpy_
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/errno.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/vcruntime_string.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt_wstring.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glad/include/glad/glad.h
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/glad/include/KHR/khrplatform.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glad/include/glad/glad.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/glad/include/KHR/khrplatform.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/um/windows.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/shared/winapifamily.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/shared/winpackagefamily.h

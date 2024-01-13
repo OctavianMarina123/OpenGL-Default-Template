@@ -1,4 +1,4 @@
-C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Clion-Complete-Configuration/OpengGL-Default-Template/libraries/stb_images/include/stb_image.h
+C:/Users/Octa/Desktop/Projects/opengl/templates/DefaultTemplate/OpenGL-Default-Template/libraries/stb_images/include/stb_image.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/stdio.h
 C:/Program Files (x86)/Windows Kits/10/include/10.0.22000.0/ucrt/corecrt.h
 C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.36.32532/include/vcruntime.h
